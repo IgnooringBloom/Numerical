@@ -1,2 +1,2 @@
-# Numerical_Analysis
- Algorithms related to Numerical Analysis
+# Numerial_Analysis
+ Algorithms for Numerical Problems
